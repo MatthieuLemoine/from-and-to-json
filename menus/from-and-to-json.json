@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "To JSON",
+        "command": "from-and-to-json:toJSON"
+      },
+      {
+        "label": "To JS",
+        "command": "from-and-to-json:toJS"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "from-and-to-json",
+          "submenu": [
+            {
+              "label": "To JSON",
+              "command": "from-and-to-json:toJSON"
+            },
+            {
+              "label": "To JS",
+              "command": "from-and-to-json:toJS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

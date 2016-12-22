@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-cmd-j": "from-and-to-json:toJSON",
+    "ctrl-alt-cmd-s": "from-and-to-json:toJS"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "from-and-to-json",
+  "main": "./lib/from-and-to-json",
+  "version": "1.0.0",
+  "description": "Atom package to convert selected JSON to Javascript object and vice versa",
+  "keywords": [
+    "json",
+    "js",
+    "atom",
+    "serialize",
+    "deserialize",
+    "parse",
+    "stringify"
+  ],
+  "repository": "https://github.com/MatthieuLemoine/from-and-to-json",
+  "license": "MIT",
+  "author": "MatthieuLemoine",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "loophole": "^1.1.0"
+  }
+}
