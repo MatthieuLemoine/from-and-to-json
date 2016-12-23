@@ -19,6 +19,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "pretty-json" : "git+https://github.com/federomero/pretty-json",
     "loophole": "^1.1.0"
   }
 }

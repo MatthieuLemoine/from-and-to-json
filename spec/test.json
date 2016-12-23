@@ -1,0 +1,22 @@
+{
+  "array": [
+    "item",
+    [
+      "item1",
+      "item2"
+    ],
+    {
+      "object": {
+        "property": "value"
+      }
+    }
+  ],
+  "junk": "hello",
+  "junky": 0,
+  "nested": {
+    "lol": "hi",
+    "so": {
+      "hi": "nested"
+    }
+  }
+}
